@@ -66,7 +66,7 @@ public class Tile {
         this.isRevealed = revealed;
         updateSprite();
     }
-
+ 
     public void toggleFlag() {
         if(typeIndex != 0){
             if (!isRevealed) {

@@ -82,7 +82,7 @@ public class GameView extends SurfaceView implements Runnable {
         completed = false;
     }
     
-    
+     
     @Override
     protected void onSizeChanged(int w, int h, int oldw, int oldh) {
         super.onSizeChanged(w, h, oldw, oldh);
