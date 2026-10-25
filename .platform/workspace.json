@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "gradle-import-1792939630433",
+      "name": "gradle-import-1792939630433",
+      "root": "",
+      "buildSystem": "gradle-compat",
+      "settings": {},
+      "modules": [
+        {
+          "id": "app",
+          "name": "app",
+          "dir": "app"
+        }
+      ],
+      "libraries": []
+    }
+  ]
+}

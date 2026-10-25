@@ -1,0 +1,16 @@
+f	1
+ctx	cf4ed762a73aff8a0e8135313df17a29
+s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/MainActivity.java	776	1792939634556	1792939941826	78a1b2c95ce0e14c55dca93c52451d69
+s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/GameView.java	21929	1792941924052	1792941983397	5fdd4453b3c03e7c46cb34ffd6993e59
+s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/Tile.java	2414	1792940269228	1792940863515	a99905415d30b57ef7a5ec7c679e9f34
+s	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/build/intermediates/android/debug/gen-build-config/com/odoncharles/endlessminesweep/BuildConfig.java	471	1792939939164	1792939941828	bf93d3a17d3de22e98950b0427790e6a
+o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/Tile.java	com/odoncharles/endlessminesweep/Tile.class
+o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/build/intermediates/android/debug/gen-build-config/com/odoncharles/endlessminesweep/BuildConfig.java	com/odoncharles/endlessminesweep/BuildConfig.class
+o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/MainActivity.java	com/odoncharles/endlessminesweep/MainActivity.class
+o	/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/GameView.java	com/odoncharles/endlessminesweep/GameView$1.class,com/odoncharles/endlessminesweep/GameView.class,com/odoncharles/endlessminesweep/GameView$2.class
+a	com/odoncharles/endlessminesweep/BuildConfig.class	901f44fc6c703cf434afece5503e5aad	N	BuildConfig
+a	com/odoncharles/endlessminesweep/GameView$1.class	98f2a7e4df98d1d86d79230712841e8d	L	1
+a	com/odoncharles/endlessminesweep/GameView$2.class	dd87cc1dd723216304ebecbee9422798	L	2
+a	com/odoncharles/endlessminesweep/GameView.class	1bfbf22afde0e3f46e84eff27f3f12ba	N	GameView
+a	com/odoncharles/endlessminesweep/MainActivity.class	b66f2d36f3d932b4d1a3207651b25ad4	N	MainActivity
+a	com/odoncharles/endlessminesweep/Tile.class	9b74f9234c995a5d2c6f753de320282d	N	Tile

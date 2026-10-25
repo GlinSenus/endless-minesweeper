@@ -1,0 +1,6 @@
+#v2
+1
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/MainActivity.java	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/GameView.java	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/AndroidManifest.xml	0	0	text
+/storage/emulated/0/Android/data/com.tyron.code/files/codeassist/projects/gradle-import-1792939630433/app/src/main/java/com/odoncharles/endlessminesweep/Tile.java	0	55	text
