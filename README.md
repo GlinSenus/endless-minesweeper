@@ -7,5 +7,6 @@ Endless Minesweeper personal Android game project using a simple 2D android game
 
 -Game difficulty customization
 
--Graphics and game layout enhancements
+-Graphics, animations, and game layout enhancements
 
+-Music and sound effects
